@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppAula02</string>
+    <string name="voltar">Voltar</string>
+    <string name="continuar">Continuar</string>
+    <string name="segunda_tela_appaula02">Segunda Tela AppAula02</string>
+    <string name="voltar_primeira_tela">VOLTAR</string>
+    <string name="aplicativo_aula_02">Aplicativo Aula 02</string>
+    <string name="aplicativo_aula_02_ricardo_oliveira">Aplicativo aula 02 Ricardo Oliveira</string>
+</resources>
